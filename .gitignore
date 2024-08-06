@@ -1,0 +1,11 @@
+## IDE 관련 파일
+.idea/
+
+## 패키지
+node_modules/
+
+## lock 파일
+/package-lock.json
+
+## history
+.history/

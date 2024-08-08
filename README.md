@@ -1,5 +1,6 @@
-# 코딩 테스트 공부용 repo
+# Coding Test Problem Solution
 
-## 참여자
-- okhj159 -> 옥현지(회사용 계정)
-- hyunji-ok -> 옥현지(개인 계정)
+## Participants
+- 옥현지
+    - hyunji-ok(개인계정)
+    - okhj159(회사계정)

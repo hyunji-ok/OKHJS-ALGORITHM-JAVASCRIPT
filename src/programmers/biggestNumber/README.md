@@ -1,4 +1,4 @@
-### 알게 된 점
+## 알게 된 점
 - map을 쓸 때는 {}이 아니라 ()을 써야된다.
     - array.map((item) => {console.log(item)}) (x)
     - array.map((item) => (console.log(item))) (o)
